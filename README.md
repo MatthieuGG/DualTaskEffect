@@ -1,5 +1,8 @@
 # Dual Task Effect (DTE)
 
+[![DOI](https://zenodo.org/badge/835532801.svg)](https://zenodo.org/doi/10.5281/zenodo.13131739)
+
+
 **Input: individual or collective .csv files ([~/sample](https://github.com/MatthieuGG/DualTaskEffect/tree/main/sample))  
 Output: individual or collective .csv files, as well as a collective plot ([~/results](https://github.com/MatthieuGG/DualTaskEffect/tree/main/results))  
 Script: [DualTaskEffect.ipynb](https://github.com/MatthieuGG/DualTaskEffect/blob/main/DualTaskEffect.ipynb)**  
