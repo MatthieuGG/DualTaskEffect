@@ -12,7 +12,7 @@ To do so, you need to:
 
 ![Dual Task Effect Graph](https://github.com/MatthieuGG/DualTaskEffect/blob/main/results/DTE_plot.jpg?raw=true)  
 
-`(change results)`  
+`Participant 1    : Dual Task Effect (DTE) = Cognitive priority tradeoff`  
 (etc. for all participants)  
 
 ---
