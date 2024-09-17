@@ -19,7 +19,7 @@ To do so, you need to:
 (etc. for all participants)  
 
 ---
-This code is an automation of the model proposed by [Plummer et al., 2013 (DOI: 10.1155/2014/538602)](https://onlinelibrary.wiley.com/doi/10.1155/2014/538602). To cide this work:  
+This code is an automation of the model proposed by [Plummer et al., 2013 (DOI: 10.1155/2014/538602)](https://onlinelibrary.wiley.com/doi/10.1155/2014/538602). To cite this work:  
 > Plummer, Prudence, Villalobos, Raymond M., Vayda, Moira S., Moser, Myriam, Johnson, Erin, Feasibility of Dual-Task Gait Training for Community-Dwelling Adults after Stroke: A Case Series, Stroke Research and Treatment, 2014, 538602, 12 pages, 2014. https://doi.org/10.1155/2014/538602  
 
 > Matthieu Gallou-Guyot. (2024). MatthieuGG/DualTaskEffect: v1.0.1 (v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.13131740
